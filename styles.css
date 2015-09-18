@@ -3,9 +3,11 @@ body {
 }
 
 h1 {
-    color: #0000ff;
+    color: #0000ff;font-size: 40px;
 }
 
 p {
+	font-size: 14px;
     color: rgb(0,255,0);
 }
+
